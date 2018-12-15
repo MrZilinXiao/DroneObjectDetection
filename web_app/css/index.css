@@ -1,0 +1,55 @@
+
+.upload
+{
+  width: 1000px; 
+  margin: 10px auto; 
+  text-align:center
+}
+
+.upload-url
+{
+  border-radius:2px;
+  border: solid 1px rgb(202, 202, 202);
+  height:24px; width:930px;
+  padding-left:3px;
+}
+
+.upload-btn
+{
+  border:0px; 
+  border-radius:3px; 
+  background-color:black; 
+  padding:6px;
+  margin-left:3px; 
+  color:white; 
+  cursor:pointer
+}
+
+.upload-file
+{
+  position:absolute; 
+  top:0px; left:0px; 
+  width:930px; 
+  cursor:pointer; 
+  opacity:0;
+  filter:alpha(opacity=0);
+}
+
+
+
+.result
+{
+  width: 994px; 
+  margin: 10px auto; 
+  text-align:center;
+  height: 600px;
+}
+
+.result-title
+{
+  width:1000px; 
+  margin: 0px auto;
+  padding-left:5px;
+  padding-top:5px; 
+  font-size:13px;
+}

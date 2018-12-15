@@ -1,0 +1,7 @@
+car
+van
+truck
+tricycle
+bus
+motor
+aircraft
