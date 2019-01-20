@@ -4,6 +4,8 @@ Visual Object Detect System is a project based on Tensorflow, Keras, YOLOv3, als
 
 > Due to the inability to understand the algorithm hidden in YOLOv3, code files in /vision/yolo3 completely come from keras-yolo3.
 
+> Congratuations! My work achieved second-class prize in in the Wuliangchun Cup Competition in Electronics and Information Engineering School of Sichuan University.
+
 > Competition Requirements in Chinese are as below:
 	我国经济的发展，带来机动车辆不断增多，国家国民安全需求不断增加，加之其他种种因素导致监控信息爆炸般增长，给人为监控带来诸多困难。加之无人机技术不断发展，利用无人机从高空采集视频信息已经成为常见的事情，在可见的未来，利用人工智能算法识别监控航拍图像成为可能。
 	
