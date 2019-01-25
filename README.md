@@ -4,13 +4,15 @@ Visual Object Detect System is a project based on Tensorflow, Keras, YOLOv3, als
 
 > Due to the inability to understand the algorithm hidden in YOLOv3, code files in /vision/yolo3 completely come from keras-yolo3.
 
-> Congratuations! My work achieved second-class prize in in the Wuliangchun Cup Competition in Electronics and Information Engineering School of Sichuan University.
+**Congratuations! My work achieved second-class prize in in the Wuliangchun Cup Competition in Electronics and Information Engineering School of Sichuan University.**
+![](https://mrxiao.net/usr/uploads/2019/01/1649061890.png)
 
 > Competition Requirements in Chinese are as below:
-	我国经济的发展，带来机动车辆不断增多，国家国民安全需求不断增加，加之其他种种因素导致监控信息爆炸般增长，给人为监控带来诸多困难。加之无人机技术不断发展，利用无人机从高空采集视频信息已经成为常见的事情，在可见的未来，利用人工智能算法识别监控航拍图像成为可能。
+
+我国经济的发展，带来机动车辆不断增多，国家国民安全需求不断增加，加之其他种种因素导致监控信息爆炸般增长，给人为监控带来诸多困难。加之无人机技术不断发展，利用无人机从高空采集视频信息已经成为常见的事情，在可见的未来，利用人工智能算法识别监控航拍图像成为可能。
 	
-	本题目旨在利用深度学习的目标检测算法对航拍图像信息进行处理，输出图像将关注目标框选出来（关注目标如车辆、机场飞机、油罐等中大型物体），并对不同目标进行类别标注。
-	
+本题目旨在利用深度学习的目标检测算法对航拍图像信息进行处理，输出图像将关注目标框选出来（关注目标如车辆、机场飞机、油罐等中大型物体），并对不同目标进行类别标注。	
+
 基本要求： 
 
 （1）通过目标检测的算法将航拍图像中的关注目标全部框选出来；
@@ -22,6 +24,7 @@ Visual Object Detect System is a project based on Tensorflow, Keras, YOLOv3, als
 （4）基于嵌入式平台（NVIDIA Jetson TX2）和Python语言设计App进行行人数目检测可视化窗口，也可以用摄像头在PC端实现所需要求，平台要求不限。
 
 （5）利用深度神经网络，用深度学习的方法进行物体标注。
+
 发挥部分：
 
 （1）能够实时的监控检测航拍视频，框选出关注目标并标注，检测速度至少为10帧每秒。
