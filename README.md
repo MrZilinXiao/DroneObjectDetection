@@ -1,10 +1,10 @@
 # Drone Object Detect System
 Drone Object Detect System is a project based on YOLOv3, with some interesting functions such as detecting image on a web page and a C/S remote monitor system.
-> Note:This is also my project to participate in the Wuliangchun Cup Competition in Electronics and Information Engineering School of Sichuan University.Thanks to Professor Lei for providing necessary assistances.
+> Note:This is also my project to participate in the Wuliangchun Cup Competition in Electronics and Information Engineering School of Sichuan University. Thanks to Professor Lei for providing necessary assistances.
 
 **Attention: [YOLOv4 implemented with Darknet](https://github.com/AlexeyAB/darknet) released, Highly recommend!**
 
-
+**Note: This implementation was one of my practical projects when I was a freshman (3 years ago). Lots of impressive works on Object Detection have emerged rather than YOLO, and since my research interests are shifting from high-level vision task, I might be no longer available for some questions relating to this repository.**
 
 **Congratuations! My work achieved second-class prize in in the Wuliangchun Cup Competition in Electronics and Information Engineering School of Sichuan University.**
 ![](https://mrxiao.net/usr/uploads/2019/01/1649061890.png)
