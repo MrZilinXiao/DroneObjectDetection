@@ -1,0 +1,8 @@
+@software{ZilinDroneObjectDetection,
+  author = {Xiao, Zilin},
+  month = {12},
+  title = {{DroneObjectDetection Dataset}},
+  url = {https://github.com/MrZilinXiao/DroneObjectDetection},
+  version = {1.0.0},
+  year = {2019}
+}
